@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /comments/feed/
-Disallow: /feed/
-Disallow: /wp-login.php
+Allow: /
