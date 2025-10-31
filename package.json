@@ -6,7 +6,7 @@
     "walkway.js": "^0.0.9"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "gulp-sass": "^5.1.0"
   },
   "scripts": {
